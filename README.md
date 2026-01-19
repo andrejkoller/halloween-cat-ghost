@@ -1,28 +1,30 @@
-# 🎃 Halloween Cat & Ghost Animation 👻
+## Short description
 
- 
-## Features
-- 🎨 Built with pure HTML and CSS 
-- 🐱 Animated cat with realistic movement (ears, tail, and body animations)
-- 👻 Floating ghost character with smooth movement patterns
-- 🌙 Atmospheric night scene with:
-  - 🌕 Glowing moon with craters
-  - ⭐ Twinkling stars
-  - 🪟 Window reflections
-- 📱 Fully responsive design that adapts to different screen sizes
-- 🚀 No JavaScript required - all animations are CSS-based
-- 💜 Purple color scheme with dynamic shadows and highlights
+An animated Halloween scene featuring a cat watching a ghost in a window. Pure HTML/CSS animation without JavaScript.
 
-## CSS Animations Include
-- 👻 Floating ghost movement
-- 🐱 Cat tail swishing
-- 🐾 Cat ear movements
-- ✨ Star twinkling effects
-- 🌊 Ghost bottom wave effect
+## ✨ Features
 
+- Animated black cat
+- Floating ghost in the window
+- Moon and stars in the background
+- Atmospheric purple color scheme
+- Pure CSS animations
 
- 
+## 🛠️ Technologies Used
 
-https://github.com/user-attachments/assets/f572de7d-1a9b-4400-a213-07549869bfec
+- HTML5
+- CSS3
+- CSS Animations
+- CSS Custom Properties (Variables)
 
-If you want to learn to build stuff like this, get my [CSS animation book here](https://www.mirayatechstore.com/l/css-animations?layout=profile) 📘
+## 📦 Installation
+
+1. Clone the repository or download the files
+2. Open `index.html` in a browser
+
+```bash
+git clone https://github.com/andrejkoller/halloween-cat-ghost.git
+cd halloween-cat-ghost
+```
+
+## 📸 Screenshots
