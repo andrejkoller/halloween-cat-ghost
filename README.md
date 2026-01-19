@@ -28,3 +28,5 @@ cd halloween-cat-ghost
 ```
 
 ## 📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/47db4ed1-1950-4914-958f-8577fd950fe3" />
